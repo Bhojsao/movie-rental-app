@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: movie-rental-app
+  profiles:
+    include:
+      - swagger
+server:
+  servlet:
+    context-path: /movierental
+  port: 9082
+

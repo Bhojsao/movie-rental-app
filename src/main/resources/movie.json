@@ -1,0 +1,23 @@
+[
+    {
+      "movieId": "F001",
+      "movieTittle": "You've Got Mail",
+      "movieType": "REGULAR"
+    },
+    {
+      "movieId": "F002",
+      "movieTittle": "Matrix",
+      "movieType": "REGULAR"
+    },
+    {
+      "movieId": "F003",
+      "movieTittle": "Cars",
+      "movieType": "CHILDREN"
+    },
+    {
+      "movieId": "F004",
+      "movieTittle": "Fast & Furious X",
+      "movieType": "NEW"
+    }
+]
+
